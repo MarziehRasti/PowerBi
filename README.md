@@ -24,7 +24,7 @@ The dashboard provides insights into:
 
 A sample screenshot of the dashboard:
 
-![Dashboard Overview](./assets/dashboard-screenshot.png)
+![Dashboard Overview](AdventureWorks/DashboardScreenshot.jpg)
 
 ---
 
