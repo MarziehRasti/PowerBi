@@ -8,6 +8,7 @@ This project is a Power BI dashboard built as part of a Coursera course exercise
 The executive team at Adventure Works are surrounded by fragmented reports and need a unified, actionable view of sales, customer behavior, and inventory to support high-stakes strategic decisions.
 
 My task: build a comprehensive Power BI dashboard that transforms scattered data into meaningful insights. This dashboard is intended for executive-level use and must highlight critical KPIs, trends, and patterns in a simple, accessible way.
+
 ---
 
 ## 📊 Dashboard Overview
