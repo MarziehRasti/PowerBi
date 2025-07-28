@@ -24,14 +24,14 @@ The dashboard provides insights into:
 
 A sample screenshot of the dashboard:
 
-![Dashboard Overview](AdventureWorks/DashboardScreenshot.jpg)
+![Dashboard Overview](./AdventureWorks/DashboardScreenshot.jpg)
 
 ---
 
 ## 📁 Files Included
 
 - `AdventureWorksDashboard.pbix` — Main Power BI file
-- `./assets/dashboard-screenshot.png` — Image preview of the dashboard
+- `./AdventureWorks/DashboardScreenshot.jpg` — Image preview of the dashboard
 - `./data/` — (Optional) Data files if external datasets were used
 
 ---
