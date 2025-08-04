@@ -49,3 +49,29 @@ The dashboard is based on the [Adventure Works sample dataset](https://learn.mic
 - **Data Modeling**
 - **Visualizations: Cards, Bar Charts, Line Charts, Tables**
 
+___
+
+## 📊 HR Analytics Dashboard
+
+This project explores employee attrition patterns across age, salary, education, and job role dimensions using Power BI.
+
+🔗 [View project folder](./HR Analytics/HR Analytics.pbix)
+
+A sample screenshot of the dashboard:
+
+![Dashboard Overview](./HR Analytics/HR.jpg)
+
+---
+## 📌 Data Source
+
+The dashboard is based on the [HR sample dataset](HR Analytics/HR_Data.xlsx) — a common dataset for Power BI practice.
+
+---
+### ## 🛠 Tools Used
+- Power BI Desctop
+- Cleaned and transformed raw HR data (handled missing values, reformatted columns, standardized categorical variables)
+- Created calculated columns and DAX measures to support interactive visuals
+- Enabled dynamic filtering by department and gender
+- Visualizations: Cards, Bar Charts, Line Charts, Tables
+
+This dashboard enables HR and executives to identify trends and insights that can inform workforce planning and retention strategies.
