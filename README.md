@@ -55,16 +55,16 @@ ___
 
 This project explores employee attrition patterns across age, salary, education, and job role dimensions using Power BI.
 
-🔗 [View project folder](./HR Analytics/HR Analytics.pbix)
+🔗 [View project folder](./HR_Analytics/HR Analytics.pbix)
 
 A sample screenshot of the dashboard:
 
-![Dashboard Overview](./HR Analytics/HR.jpg)
+![Dashboard Overview](./HR_Analytics/HR.jpg)
 
 ---
 ## 📌 Data Source
 
-The dashboard is based on the [HR sample dataset](HR Analytics/HR_Data.xlsx) — a common dataset for Power BI practice.
+The dashboard is based on the [HR sample dataset](HR_Analytics/HR_Data.xlsx) — a common dataset for Power BI practice.
 
 ---
 ### ## 🛠 Tools Used
