@@ -15,7 +15,8 @@ Energy data from multiple locations often lacks a unified, actionable view for d
 
 A sample screenshot of the dashboard:
 
-![Dashboard Overview](./AdventureWorks/DashboardScreenshot.jpg)
+![Dashboard Overview](./Energy Consumption/Screenshot .jpg)
+
 
 ---
 ## 📁 Files Included
