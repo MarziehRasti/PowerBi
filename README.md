@@ -14,16 +14,14 @@ Energy data from multiple locations often lacks a unified, actionable view for d
 ✅ Track total consumption and emissions
 
 A sample screenshot of the dashboard:
+![Dashboard Overview](./Energy Consumption/Screenshot .jpg)
 
-![Dashboard Overview](./[Energy Consumption/Screenshot.jpg](https://github.com/MarziehRasti/PowerBi-Projects/blob/cea22553bfc8cce3b9beadbbd1afcb2160788757/Energy%20Consumption/Screenshot%20.jpg)
 
 ---
 ## 📁 Files Included
 - `Energy Consumption/Energy Flow Dashboard.pbix` — Main Power BI file
 - `./Energy Consumption/Screenshot .jpg` — Image preview of the dashboard
 - `./data/` — (Optional) Data files if external datasets were used
-
-
 
 
 
