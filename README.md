@@ -14,8 +14,8 @@ Energy data from multiple locations often lacks a unified, actionable view for d
 ✅ Track total consumption and emissions
 
 A sample screenshot of the dashboard:
-![Dashboard Overview](./Energy Consumption/Screenshot .jpg)
 
+![Dashboard Overview](./AdventureWorks/DashboardScreenshot.jpg)
 
 ---
 ## 📁 Files Included
