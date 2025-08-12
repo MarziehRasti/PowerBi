@@ -1,3 +1,33 @@
+# Energy Flow Dashboard
+This project is a Power BI dashboard designed to provide insights into energy consumption, cost efficiency, and emissions. It compares renewable and non-renewable energy usage while highlighting trends over time, by location, and by season.
+
+---
+## 📌 Project Background
+Energy data from multiple locations often lacks a unified, actionable view for decision-making. This dashboard consolidates key metrics—such as energy usage, cost per kWh, and emissions—into a single, interactive report. It enables stakeholders to evaluate cost differences between renewable and non-renewable sources and to identify seasonal and regional patterns affecting overall efficiency.
+
+---
+## 📊 Dashboard Objectives
+
+✅ Compare renewable and non-renewable energy usage and costs
+✅ Analyze energy costs by location, month, and season
+✅ Highlight cost differences between energy types
+✅ Track total consumption and emissions
+
+A sample screenshot of the dashboard:
+
+![Dashboard Overview](./Energy Consumption/Screenshot .jpg)
+
+---
+## 📁 Files Included
+- `Energy Consumption/Energy Flow Dashboard.pbix` — Main Power BI file
+- `./Energy Consumption/Screenshot .jpg` — Image preview of the dashboard
+- `./data/` — (Optional) Data files if external datasets were used
+
+
+
+
+
+
 # Adventure Works Executive Summary Dashboard
 
 This project is a Power BI dashboard built as part of a Coursera course exercise using the Adventure Works dataset. It provides a high-level executive summary of sales, customer orders, and product performance.
